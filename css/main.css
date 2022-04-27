@@ -55,14 +55,14 @@ img{
 }
 
 .form__checkbox{
-  padding: 0.5px;
+  padding: 2px;
 }
 
 .form__checkbox:checked  ~ .form__span1{
   position: relative;
   background-image: url("../images/table-tennis.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
@@ -70,7 +70,7 @@ img{
   position: relative;
   background-image: url("../images/basketball-ball.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
@@ -78,7 +78,7 @@ img{
   position: relative;
   background-image: url("../images/volleyball-ball.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
@@ -86,7 +86,7 @@ img{
   position: relative;
   background-image: url("../images/hockey-puck.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
@@ -94,7 +94,7 @@ img{
   position: relative;
   background-image: url("../images/hockey-puck.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
